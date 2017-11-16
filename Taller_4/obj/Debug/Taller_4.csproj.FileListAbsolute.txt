@@ -1,0 +1,7 @@
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\obj\Debug\Taller_4.csprojResolveAssemblyReference.cache
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\obj\Debug\Taller_4.csproj.CoreCompileInputs.cache
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\bin\Debug\Taller_4.exe.config
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\bin\Debug\Taller_4.exe
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\bin\Debug\Taller_4.pdb
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\obj\Debug\Taller_4.exe
+C:\Users\posmo\OneDrive\Documentos\Visual Studio 2017\Projects\Taller_4\Taller_4\obj\Debug\Taller_4.pdb
